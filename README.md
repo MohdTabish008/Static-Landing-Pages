@@ -1,5 +1,5 @@
 # gym_membership_frontend_work
-This file of code is written in HTML & styled by embedded CSS.This project has been developed with the most naive approach in frontend development.
+This file of code is written in HTML & styled by embedded CSS.This project has been developed with the most naive approach in front-end development.
 No external library has been used.All the styling through CSS is without the use of bootstrap framework.
 
 
